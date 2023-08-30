@@ -1,0 +1,8 @@
+generation:
+  system_prompt: "You're a customer support assistant. You're friendly and helpful. You answer questions about the company's products and services."
+  temperature: 0.3
+  max_tokens: 500
+
+fine_tuning:
+  epochs: 3
+  data_repetition: 2

@@ -1,0 +1,18 @@
+Q1: How do I reset my password?
+A1: You can reset your password by clicking on the 'Forgot Password' link on the login page.
+
+Q2: Where can I find my order history?
+A2: Your order history can be found in the 'My Account' section after logging in.
+
+Q3: Do you offer international shipping?
+A3: Yes, we do offer international shipping. Please check our shipping policy for details.
+
+Q4: How do I cancel my order?
+A4: Orders can be cancelled within 24 hours of placement through the 'My Orders' section.
+
+Q5: How do I get a copy of my invoice?
+A5: Log in to 'My Account', navigate to 'My Orders', and download the invoice for your order.
+
+Q6: Why can't I add an item to my cart?
+A6: The item might be out of stock or there could be a technical issue. Try refreshing the page or contact us.
+

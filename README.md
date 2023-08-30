@@ -14,6 +14,8 @@ Distillation from GPT-4 to GPT-3.5 can be particularly useful for specific tasks
 - Uploads the data to OpenAI.
 - Fine-tunes a GPT-3.5 model based on the generated data.
 
+Check config.yaml and customer_support_qa.txt for sample data.
+
 ### Configurable Parameters:
 - **GPT-4 Parameters:** 
     - `temperature`: Adjusts randomness in model's output.
